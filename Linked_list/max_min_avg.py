@@ -15,6 +15,7 @@ class SList:
                 max_value = item  
         return max_value
 
+
 slist = SList()
 slist.add(10)
 slist.add(15)
